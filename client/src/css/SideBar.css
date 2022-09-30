@@ -1,0 +1,53 @@
+.sideBar-Container{
+    background-color: #E1F9F4;
+    position:fixed;
+    width:16%;;
+    height:100vh;
+}
+
+.sideBar-LogoContainer{
+    margin-top: 4%;
+    height:10%;
+    width:25%;
+    margin-left:25%;
+    margin-bottom: 10%;
+}
+ 
+.logo {
+    font-size: 25px;
+}
+
+.sideBar-NavContainer {
+    width: 100%;
+    height: max-content;
+    margin-top: 50px;
+}
+
+.sideBar-NavContainer .propClass a{
+    color:#2289FF;
+}
+.nameSide{
+    font-size: 1rem;
+}
+
+.sideBar-NavContainer li{
+    margin-bottom: 20%;
+    list-style: none;
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1rem;  
+    line-height: 35px;
+}
+.sideBar-NavContainer ul{
+    margin-top: 10%;
+}
+
+.sideBar-NavContainer li a{
+    margin-left: 3%;
+    text-decoration: none;
+}
+
+.sideBar-NavContainer li a{
+    color:#AAAAAA;
+}

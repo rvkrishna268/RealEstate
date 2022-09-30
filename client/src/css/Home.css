@@ -1,0 +1,76 @@
+/* *{
+    border: 1px solid black;
+} */
+
+.search-Add-Container{
+    margin-left: 18%;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    margin-right: 4%;
+}
+
+.property-table-container{
+    margin-left: 18%;
+    margin-right: 4%;
+}
+.property-table-container .soldBtn{
+    color:#416899;
+    background-color: #F5FAF5;
+    border:none;
+    width:60px;
+    height: 30px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.MuiTableRow-root {
+    background-color: #fff;
+}
+
+.MuiTableRow-root th:first-child {
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    overflow: hidden;
+  }
+  
+  .MuiTableRow-root th:last-child {
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+  }
+
+
+.MuiTableRow-root td:first-child {
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    overflow: hidden;
+  }
+  
+  .MuiTableRow-root td:last-child {
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+  }
+
+.search-Add-Container .addPropBtn{
+    background-color: #6AB4F8;
+    border-radius: 50px;
+    height: 40px;
+    width: 12%;
+    border: none;
+    color: white;
+    box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.13);
+    cursor:pointer;
+}
+
+.search-Add-Container .addPropBtn:hover{
+  background-color: #4C57B6;
+}
+
+.search-bar-container{
+    background-color:#fff;
+    border-radius: 30px;
+    margin-left: 0%;
+    border-bottom-color: #fff;
+    box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.13);
+}

@@ -1,0 +1,32 @@
+.header-Container{
+    margin-left: 250px;
+    display: flex;
+    justify-content:space-between;
+    padding: 8px
+}
+
+.header-userID-container {
+    color: #B4B4C6;
+}
+
+.header-Container .header-userName-container span{
+    margin-right: 10px;
+    color: #a6a6a6;
+}
+
+.header-Container .header-userName-container .header-userName-img img{
+    margin-top: 10px;
+}
+
+
+.header-main{
+    max-width: 100%;
+}
+
+.breakpoint{
+    background-color: #E1F9F4;
+    border: #E1F9F4;
+    height: 3px;
+}
+
+
